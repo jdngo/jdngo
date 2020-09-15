@@ -2,7 +2,7 @@
 
 My name is Jonathan Ngo. I'm a data scientist at Cisco in San Jose, CA. Prior to Cisco, I was a student at UC Davis, where I completed a BS and MS in statistics.
 
-[Test Link (redirects to this page](github.com/jdngo)
+[Test Link (redirects to this page)](http://www.github.com/jdngo)
 
 <!--
 **jdngo/jdngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
