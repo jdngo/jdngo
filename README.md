@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jonathan Ngo. I'm a data scientist at Cisco in San Jose, CA. Prior to Cisco, I was a student at UC Davis, where I completed a BS and MS in statistics.
+My name is Jonathan Ngo and I'm a data scientist at Cisco. Prior to Cisco, I was a student at UC Davis where I completed a BS and MS in statistics.
 
 [Test Link (redirects to this page)](http://www.github.com/jdngo)
 
